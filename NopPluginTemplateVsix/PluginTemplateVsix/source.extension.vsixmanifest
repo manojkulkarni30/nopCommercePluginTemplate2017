@@ -3,9 +3,10 @@
   <Metadata>
     <Identity Id="25083678-3c5d-4bbc-aee6-db34e90f70a8" Version="1.0" Language="en-US" Publisher="Manoj Kulkarni" />
     <DisplayName>nopCommerce Plugin Template</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">A simple class library to get started quickly with nopCommerce plugin development. </Description>
     <MoreInfo>https://github.com/manojkulkarni30/nopCommercePluginTemplate2017</MoreInfo>
     <License>License.txt</License>
+    <GettingStartedGuide>https://github.com/manojkulkarni30/nopCommercePluginTemplate2017/blob/master/README.md</GettingStartedGuide>
     <Icon>logo.jpg</Icon>
     <PreviewImage>logo.jpg</PreviewImage>
     <Tags>nopCommerce, plugin template</Tags>
