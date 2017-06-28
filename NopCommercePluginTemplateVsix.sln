@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{49A4FBCA-FD43-4E49-ABF6-67339BD433E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Misc.PluginExample", "Projects\Nop.Plugin.Misc.PluginExample\Nop.Plugin.Misc.PluginExample.csproj", "{3575FB04-FBF0-48B9-9065-BDC936E3A3DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NopPluginTemplateVsix", "NopPluginTemplateVsix", "{EF57BD27-6A5B-4FB7-9EBE-9436780011C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginTemplateVsix", "NopPluginTemplateVsix\PluginTemplateVsix\PluginTemplateVsix.csproj", "{50317F2F-5BF2-423B-A45E-7853889D7FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3575FB04-FBF0-48B9-9065-BDC936E3A3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3575FB04-FBF0-48B9-9065-BDC936E3A3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3575FB04-FBF0-48B9-9065-BDC936E3A3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3575FB04-FBF0-48B9-9065-BDC936E3A3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50317F2F-5BF2-423B-A45E-7853889D7FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50317F2F-5BF2-423B-A45E-7853889D7FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50317F2F-5BF2-423B-A45E-7853889D7FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50317F2F-5BF2-423B-A45E-7853889D7FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3575FB04-FBF0-48B9-9065-BDC936E3A3DE} = {49A4FBCA-FD43-4E49-ABF6-67339BD433E4}
+		{50317F2F-5BF2-423B-A45E-7853889D7FB3} = {EF57BD27-6A5B-4FB7-9EBE-9436780011C9}
+	EndGlobalSection
+EndGlobal

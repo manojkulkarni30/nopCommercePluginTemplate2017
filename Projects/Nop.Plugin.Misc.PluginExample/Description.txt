@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: Basic Plugin
+SystemName: Nop.Plugin.Misc.PluginExample
+Version: 1.0
+SupportedVersions: 3.90
+Author: nopCommerce
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.PluginExample.dll
+Description: Plugin Template
