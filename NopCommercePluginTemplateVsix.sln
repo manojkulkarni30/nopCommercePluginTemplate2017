@@ -11,6 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NopPluginTemplateVsix", "No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginTemplateVsix", "NopPluginTemplateVsix\PluginTemplateVsix\PluginTemplateVsix.csproj", "{50317F2F-5BF2-423B-A45E-7853889D7FB3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScreenShots", "ScreenShots", "{4F1B4A1B-CA63-4FF3-A75F-02A6E16899D1}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\manoj\Pictures\AddNewPluginProject.png = C:\Users\manoj\Pictures\AddNewPluginProject.png
+		C:\Users\manoj\Pictures\CompiledPlugin.png = C:\Users\manoj\Pictures\CompiledPlugin.png
+		C:\Users\manoj\Pictures\PluginList.png = C:\Users\manoj\Pictures\PluginList.png
+		C:\Users\manoj\Pictures\ProjectContent.png = C:\Users\manoj\Pictures\ProjectContent.png
+		C:\Users\manoj\Pictures\ProjectDialogWindow.png = C:\Users\manoj\Pictures\ProjectDialogWindow.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
