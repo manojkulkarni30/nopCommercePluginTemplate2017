@@ -2,6 +2,9 @@
 
 nopCommerce Plugin project template for Visual Studio 2017. This project contains a simple class library project template  to get started quickly with nopCommerce plugin development. It adds basic content which are required for nopCommerce plugin like Description.txt, plugin configuration file etc.
 
+Download:
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ManojSunilKulkarni.nopCommercePluginTemplate-19038)
+
 In nopCommerce project, you just need to right click on Plugins folder and select Add => New Project option as shown below.
 
 ![Add New Plugin Project](https://raw.githubusercontent.com/manojkulkarni30/nopCommercePluginTemplate2017/master/ScreenShots/AddNewPluginProject.png)
