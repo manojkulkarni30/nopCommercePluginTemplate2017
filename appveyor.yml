@@ -1,5 +1,8 @@
 image: Visual Studio 2017
 
+pull_requests:  
+  do_not_increment_build_number: true
+
 install:
 - ps: (new-object Net.WebClient).DownloadString("https://raw.github.com/madskristensen/ExtensionScripts/master/AppVeyor/vsix.ps1") | iex
 
