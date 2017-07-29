@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{49A4FBCA-FD43-4E49-ABF6-67339BD433E4}"
 EndProject
@@ -18,6 +18,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScreenShots", "ScreenShots"
 		C:\Users\manoj\Pictures\PluginList.png = C:\Users\manoj\Pictures\PluginList.png
 		C:\Users\manoj\Pictures\ProjectContent.png = C:\Users\manoj\Pictures\ProjectContent.png
 		C:\Users\manoj\Pictures\ProjectDialogWindow.png = C:\Users\manoj\Pictures\ProjectDialogWindow.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE604339-0370-4520-8E0B-38B2785C3A14}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		CHANGELOG.md = CHANGELOG.md
 	EndProjectSection
 EndProject
 Global
